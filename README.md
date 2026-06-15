@@ -70,7 +70,3 @@ src/
 ├── context
 ├── routes
 └── styles
-
-## Autor(es)
-
-- Seu nome
