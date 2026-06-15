@@ -30,3 +30,47 @@ Repositório no GitHub;
 Organização das tarefas por meio de Kanban (GitHub Projects);
 Commits organizados e coerentes com a evolução do projeto;
 Aplicação executável localmente.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+# Projeto React
+
+## Descrição
+Aplicação desenvolvida em React para demonstrar:
+- Navegação entre páginas
+- Formulário com validação
+- Gerenciamento de estado compartilhado
+- Consumo de API REST
+- Listagem dinâmica de dados
+
+## Tecnologias
+- React
+- React Router
+- Context API
+- CSS
+
+## Funcionalidades
+- Página Inicial
+- Cadastro de usuários
+- Listagem de usuários
+- Integração com API REST
+
+## Como executar
+
+git clone <url>
+cd projeto-react
+npm install
+npm run dev
+
+## Estrutura
+
+src/
+├── pages
+├── components
+├── context
+├── routes
+└── styles
+
+## Autor(es)
+
+- Seu nome
